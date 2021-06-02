@@ -1,0 +1,50 @@
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\RELender.dll.config
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\RELender.dll
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\RELender.pdb
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\EntityFramework.dll
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\RELender.BLL.dll
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\RELender.BLL.pdb
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\EntityFramework.xml
+C:\Users\n-pej\Desktop\RELender\RELender\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\n-pej\Desktop\RELender\RELender\obj\Debug\RELender.DAL.csprojAssemblyReference.cache
+C:\Users\n-pej\Desktop\RELender\RELender\obj\Debug\RELender.DAL.csproj.CoreCompileInputs.cache
+C:\Users\n-pej\Desktop\RELender\RELender\obj\Debug\RELender.DAL.csproj.CopyComplete
+C:\Users\n-pej\Desktop\RELender\RELender\obj\Debug\RELender.dll
+C:\Users\n-pej\Desktop\RELender\RELender\obj\Debug\RELender.pdb
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\RELender.dll.config
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\RELender.dll
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\RELender.pdb
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\EntityFramework.dll
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\RELender.BLL.dll
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\RELender.BLL.pdb
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\EntityFramework.xml
+C:\Users\n-pej\Desktop\RELender V2\RELender\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.DAL.csprojAssemblyReference.cache
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.CoreCompileInputs.cache
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.CopyComplete
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.dll
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.pdb
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.Migrations.InitialCreate.resources
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.GenerateResource.cache
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.Migrations.loggsAdded.resources
+C:\Users\n-pej\Desktop\RELender V2\RELender\obj\Debug\RELender.Migrations.logsDateTimeAdded.resources
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\RELender.dll.config
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\RELender.dll
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\RELender.pdb
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\EntityFramework.dll
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\RELender.BLL.dll
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\RELender.BLL.pdb
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\EntityFramework.xml
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.DAL.csprojAssemblyReference.cache
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.Migrations.InitialCreate.resources
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.Migrations.loggsAdded.resources
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.Migrations.logsDateTimeAdded.resources
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.GenerateResource.cache
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.CoreCompileInputs.cache
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.DAL.csproj.CopyComplete
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.dll
+C:\Users\n-pej\Desktop\BP2 Pr29-2017\RELender V2\RELender\obj\Debug\RELender.pdb
